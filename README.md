@@ -24,10 +24,6 @@
 
 ### Overzichtspagina
 
-# User Stories Recipe Book
-
-## Overzichtspagina
-
 **Als een** bezoeker  
 **Wil ik** een overzicht zien van alle beschikbare recepten  
 **Zodat ik** snel kan bladeren door verschillende recepten
@@ -113,10 +109,10 @@ Detailpagina
 | Teruglink naar overzichtspagina | Link werkt niet of is niet aanwezig | Link is aanwezig en werkt | Link is duidelijk zichtbaar en gebruiksvriendelijk |
 ## Algemene aspecten
 
-| Criterium              | Onvoldoende                                | Voldoende                                      | Goed                                           |
-| ---------------------- | ------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| Database connectie| Query's werken niet of met ernstige fouten | Query's werken, maar zijn niet geoptimaliseerd | Query's werken goed en zijn geoptimaliseerd    |  | Responsief ontwerp | Website werkt niet op verschillende schermgroottes | Website werkt op verschillende schermgroottes, maar heeft kleine problemen | Website is volledig responsief en werkt uitstekend op alle schermgroottes |
-| Code kwaliteit    | Rommelige code met veel fouten             | Redelijk nette code met enkele fouten          | Nette, goed gestructureerde code zonder fouten |
+| Criterium          | Onvoldoende                                | Voldoende                                      | Goed                                           |
+| ------------------ | ------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| Database connectie | Query's werken niet of met ernstige fouten | Query's werken, maar zijn niet geoptimaliseerd | Query's werken goed en zijn geoptimaliseerd    |  | Responsief ontwerp | Website werkt niet op verschillende schermgroottes | Website werkt op verschillende schermgroottes, maar heeft kleine problemen | Website is volledig responsief en werkt uitstekend op alle schermgroottes |
+| Code kwaliteit     | Rommelige code met veel fouten             | Redelijk nette code met enkele fouten          | Nette, goed gestructureerde code zonder fouten |
 
 ## Beoordeling
 
